@@ -1,11 +1,44 @@
-// src/core/trajectoryEngine.ts
+// src/data/trajectories.ts
 
-import { TRAJECTORY_MAP } from "../data/trajectories";
+export const TRAJECTORY_MAP: any = {
+  sacrifice: {
+    sacrifice: {
+      id: "sacrifice_surrender",
+      movement: ["offering", "surrender", "union"]
+    },
+    default: {
+      id: "sacrifice_surrender",
+      movement: ["guilt", "offering", "surrender"]
+    }
+  },
 
-export function generateTrajectory(threadId: string, stage: string) {
-  const map = TRAJECTORY_MAP[threadId];
+  covenant: {
+    law: {
+      id: "law_to_love",
+      movement: ["command", "failure", "longing"]
+    },
+    fulfillment: {
+      id: "law_to_love",
+      movement: ["love", "grace", "freedom"]
+    },
+    default: {
+      id: "law_to_love",
+      movement: ["law", "failure", "love"]
+    }
+  },
 
-  if (!map) return null;
-
-  return map[stage] ?? map.default;
-}
+  kingship: {
+    collapse: {
+      id: "control_to_service",
+      movement: ["control", "collapse", "surrender"]
+    },
+    fulfillment: {
+      id: "control_to_service",
+      movement: ["service", "participation"]
+    },
+    default: {
+      id: "control_to_service",
+      movement: ["authority", "service"]
+    }
+  }
+};
