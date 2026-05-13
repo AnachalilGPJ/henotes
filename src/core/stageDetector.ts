@@ -1,6 +1,21 @@
-// src/core
+// src/core/stageDetector.ts
 
 import { BOOK_STAGE_MAP } from "../data/stageMap";
+
+export function detectStage(context: {
+  book: string
+  chapter: number
+  text: string
+}) {
+
+  let stage = BOOK_STAGE_MAP[context.book] || "default";
+
+  stage = refineStageByChapter(context.book, context.chapter, stage);
+  stage = refineStageByText(context.text, stage);
+
+  return stage;
+}
+
 
 function refineStageByChapter(book: string, chapter: number, current: string) {
 
@@ -26,7 +41,9 @@ function refineStageByChapter(book: string, chapter: number, current: string) {
   return current;
 }
 
+
 function refineStageByText(text: string, current: string) {
+
   const t = text.toLowerCase();
 
   if (t.includes("cross") || t.includes("crucify")) return "sacrifice";
@@ -35,17 +52,4 @@ function refineStageByText(text: string, current: string) {
   if (t.includes("temple")) return "presence";
 
   return current;
-}
-
-export function detectStage(context: {
-  book: string
-  chapter: number
-  text: string
-}) {
-  let stage = BOOK_STAGE_MAP[context.book] || "default";
-
-  stage = refineStageByChapter(context.book, context.chapter, stage);
-  stage = refineStageByText(context.text, stage);
-
-  return stage;
 }
