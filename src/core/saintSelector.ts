@@ -14,23 +14,23 @@ export function selectSaint(trajectoryId: string, stage: string) {
   let bestScore = -1;
 
   for (const saint of candidates) {
+
     let score = 0;
 
-    // trajectory match
-    score += (s.trajectoryStrength[trajectoryId] || 0) * 5;
+    // Primary: trajectory embodiment
+    score += (saint.trajectoryStrength[trajectoryId] || 0) * 5;
 
-    // stage alignment
-    if (s.stageAffinity.includes(stage)) score += 3;
+    // Stage alignment
+    if (saint.stageAffinity.includes(stage)) score += 4;
 
-    // silence weighting
-    score -= s.voiceProfile.silenceAffinity * 0.5;
+    // Silence sensitivity
+    score -= saint.voiceProfile.silenceAffinity * 0.5;
 
     if (score > bestScore) {
-      best = s;
+      best = saint;
       bestScore = score;
     }
   }
 
   return best;
 }
-``
