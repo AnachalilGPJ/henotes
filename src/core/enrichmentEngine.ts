@@ -12,34 +12,31 @@ export function runEnrichment(context: {
   chapter: number
 }) {
 
-  // 1. Thread selection
+  // 1. Identify thread
   const { primary } = selectThreads(context.text);
 
   if (!primary) return null;
 
-  // ✅ NEW: Stage detection
-  const stage = detectStage({
-    book: context.book,
-    chapter: context.chapter,
-    text: context.text
-  });
+  // 2. Detect stage (NEW CORE FEATURE)
+  const stage = detectStage(context);
 
-  // 3. Trajectory generation
+  // 3. Generate trajectory (NOW FULLY THEOLOGICAL)
   const trajectory = generateTrajectory(primary, stage);
 
   if (!trajectory) return null;
 
-  // 4. Saint selection
+  // 4. Select saint (STAGE-AWARE)
   const saint = selectSaint(trajectory.id, stage);
 
-  // 5. Response generation
-  const response = generateResponse(trajectory.id, saint);
+  // 5. Generate output
+  const response = generateResponse(trajectory, saint);
 
   return {
     thread: primary,
-    stage,              // ✅ NEW important output
+    stage,
     trajectory,
     saint,
     response
   };
 }
+``
