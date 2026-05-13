@@ -22,7 +22,9 @@ export default function LayerView({ mode, data }) {
   // ✅ DOCTRINAL
   if (mode === "doctrinal" && doctrine) {
     return (
-      <div className="bg-gray-50 p-3 rounded border text-sm">
+      
+<div className="doctrine text-sm">
+
 
         <p className="font-semibold">
           {doctrine.claim}
