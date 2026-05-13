@@ -10,12 +10,12 @@ export default function Verse({ verse }) {
   return (
     <div className="relative">
 
-      <span
-        onClick={() => setActive(prev => !prev)}
-        className={`cursor-pointer px-1 rounded transition ${
-          active ? "bg-yellow-200" : "hover:bg-yellow-100"
-        }`}
-      >
+    
+<span
+  className={`verse ${active ? "bg-yellow-200" : ""}`}
+  onClick={() => setActive(!active)}
+>
+
         {verse.text}
       </span>
 
