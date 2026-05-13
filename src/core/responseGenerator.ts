@@ -1,23 +1,13 @@
 // src/core/responseGenerator.ts
 
-const RESPONSES = {
-  sacrifice_surrender: [
-    "Something here is being given — and it has not always been easy to give."
-  ],
-  gift_restoration: [
-    "What began as a gift has not always been held that way."
-  ],
-  control_to_service: [
-    "What was held tightly has sometimes been opened differently."
-  ]
-};
+export function generateResponse(trajectory: any, saint: any) {
 
-export function generateResponse(trajectoryId: string, saint: any) {
-  const options = RESPONSES[trajectoryId] || [
-    "This has been lived before."
-  ];
+  const movement = trajectory.movement;
 
-  const text = options[Math.floor(Math.random() * options.length)];
+  const primary = movement[0];
+  const secondary = movement[1] || "";
+
+  let text = generateLine(primary, secondary);
 
   return {
     text,
@@ -28,5 +18,20 @@ export function generateResponse(trajectoryId: string, saint: any) {
         }
       : null
   };
+}
+
+
+// 🔧 Simple dynamic phrasing
+
+function generateLine(a: string, b: string) {
+
+  const templates = [
+    `This has often begun in ${a}${b ? " and moved through " + b : ""}.`,
+    `What begins here has not always remained simple.`,
+    `This path has taken shape through something like ${a}.`,
+    `What appears here has led deeper than expected.`
+  ];
+
+  return templates[Math.floor(Math.random() * templates.length)];
 }
 ``
