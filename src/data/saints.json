@@ -1,0 +1,461 @@
+{
+  "saints": [
+    {
+      "id": "st-francis",
+      "name": "Francis of Assisi",
+      "dates": "1181–1226",
+      "category": "reformer",
+      "shortDescriptor": "The troubadour of Lady Poverty who found wealth in renunciation",
+      "voiceProfile": {
+        "interior": "luminous, embodied, celebratory",
+        "simplicity": "high",
+        "intensity": "moderate-to-high",
+        "silenceAffinity": "moderate",
+        "imagery": "creation, light, brother-sister language, cosmic joy"
+      },
+      "trajectoryStrength": {
+        "gift-rupture-restoration": 9,
+        "guilt-offering-surrender-union": 8,
+        "control-collapse-service": 10,
+        "bondage-liberation-freedom": 9,
+        "distance-presence-communion": 9,
+        "calling-resistance-fidelity": 10
+      },
+      "stageAffinity": [
+        "creation-marred",
+        "creation-restored",
+        "kingship-revealed",
+        "presence-intimate"
+      ],
+      "doctrinalAnchor": "Incarnation: God enters creation and makes all things sacred.",
+      "iconType": "transformer",
+      "movementLanguage": [
+        "poverty",
+        "simplicity",
+        "joy",
+        "cosmic belonging",
+        "renunciation as liberation",
+        "creature consciousness"
+      ],
+      "tags": [
+        "creation",
+        "joy",
+        "simplicity",
+        "nature",
+        "poverty",
+        "love",
+        "radical obedience"
+      ],
+      "keyTexts": [
+        "Canticle of the Sun",
+        "Letters",
+        "Testament",
+        "Little Flowers"
+      ],
+      "relatedThreats": [
+        "gift-rupture-restoration",
+        "control-collapse-service",
+        "calling-resistance-fidelity"
+      ],
+      "representativeQuote": "All creatures of our God and King, lift up your voice and with us sing..."
+    },
+    {
+      "id": "st-teresa-avila",
+      "name": "Teresa of Ávila",
+      "dates": "1515–1582",
+      "category": "doctor-of-church",
+      "shortDescriptor": "The interior castle: she mapped the soul's ascent and descent in God",
+      "voiceProfile": {
+        "interior": "introspective, architectural, clarifying",
+        "simplicity": "moderate",
+        "intensity": "high",
+        "silenceAffinity": "low",
+        "imagery": "castles, rooms, fire, water, marriage"
+      },
+      "trajectoryStrength": {
+        "guilt-offering-surrender-union": 10,
+        "control-collapse-service": 9,
+        "ignorance-illumination": 10,
+        "distance-presence-communion": 10,
+        "calling-resistance-fidelity": 9,
+        "command-failure-love": 8
+      },
+      "stageAffinity": [
+        "presence-distant",
+        "presence-promised",
+        "presence-intimate"
+      ],
+      "doctrinalAnchor": "Spiritual marriage: the soul's deepest union with God in Christ.",
+      "iconType": "teacher",
+      "movementLanguage": [
+        "interior progress",
+        "prayer",
+        "union",
+        "surrender of will",
+        "divine intimacy",
+        "action flowing from contemplation"
+      ],
+      "tags": [
+        "prayer",
+        "union",
+        "interior life",
+        "reform",
+        "teaching",
+        "marriage to Christ"
+      ],
+      "keyTexts": [
+        "The Interior Castle",
+        "The Life",
+        "The Way of Perfection",
+        "Meditations on the Song of Songs"
+      ],
+      "relatedThreats": [
+        "guilt-offering-surrender-union",
+        "ignorance-illumination",
+        "distance-presence-communion"
+      ],
+      "representativeQuote": "Let nothing trouble you; let nothing frighten you. All things are passing away: God alone is unchanging."
+    },
+    {
+      "id": "st-john-cross",
+      "name": "John of the Cross",
+      "dates": "1542–1591",
+      "category": "doctor-of-church",
+      "shortDescriptor": "The poet of darkness who taught that God is found in the cloud",
+      "voiceProfile": {
+        "interior": "mystical, dark, paradoxical",
+        "simplicity": "low",
+        "intensity": "very-high",
+        "silenceAffinity": "very-high",
+        "imagery": "darkness, night, fire, emptiness, union"
+      },
+      "trajectoryStrength": {
+        "guilt-offering-surrender-union": 9,
+        "control-collapse-service": 8,
+        "ignorance-illumination": 9,
+        "distance-presence-communion": 10,
+        "bondage-liberation-freedom": 9,
+        "command-failure-love": 9
+      },
+      "stageAffinity": [
+        "covenant-law",
+        "presence-distant",
+        "presence-intimate"
+      ],
+      "doctrinalAnchor": "The dark night: God's presence is most intimate when least felt.",
+      "iconType": "mystic",
+      "movementLanguage": [
+        "detachment",
+        "nakedness before God",
+        "dark night",
+        "unknowing",
+        "pure love",
+        "spiritual solitude"
+      ],
+      "tags": [
+        "dark night",
+        "mysticism",
+        "poetry",
+        "detachment",
+        "deep silence",
+        "paradox"
+      ],
+      "keyTexts": [
+        "The Dark Night",
+        "The Ascent of Mount Carmel",
+        "The Living Flame of Love",
+        "The Spiritual Canticle"
+      ],
+      "relatedThreats": [
+        "distance-presence-communion",
+        "ignorance-illumination",
+        "guilt-offering-surrender-union"
+      ],
+      "representativeQuote": "In the evening of life, we will be judged on love alone."
+    },
+    {
+      "id": "st-therese",
+      "name": "Thérèse of Lisieux",
+      "dates": "1873–1897",
+      "category": "doctor-of-church",
+      "shortDescriptor": "The little way: she taught that holiness is hidden in the ordinary",
+      "voiceProfile": {
+        "interior": "intimate, childlike, tender",
+        "simplicity": "very-high",
+        "intensity": "moderate",
+        "silenceAffinity": "high",
+        "imagery": "littleness, flowers, elevator, night, trust"
+      },
+      "trajectoryStrength": {
+        "gift-rupture-restoration": 9,
+        "guilt-offering-surrender-union": 10,
+        "command-failure-love": 10,
+        "bondage-liberation-freedom": 8,
+        "distance-presence-communion": 9,
+        "calling-resistance-fidelity": 9
+      },
+      "stageAffinity": [
+        "covenant-fulfilled",
+        "presence-intimate",
+        "sacrifice-fulfilled"
+      ],
+      "doctrinalAnchor": "The little way: sanctity through small acts done with great love.",
+      "iconType": "intercessor",
+      "movementLanguage": [
+        "littleness",
+        "trust",
+        "surrender",
+        "love",
+        "hidden offering",
+        "spiritual childhood"
+      ],
+      "tags": [
+        "littleness",
+        "trust",
+        "love",
+        "hidden life",
+        "ordinary sanctity",
+        "intercession"
+      ],
+      "keyTexts": [
+        "The Story of a Soul",
+        "Letters",
+        "Poems",
+        "Act of Offering to Merciful Love"
+      ],
+      "relatedThreats": [
+        "guild-offering-surrender-union",
+        "command-failure-love",
+        "distance-presence-communion"
+      ],
+      "representativeQuote": "My way is all confidence and love."
+    },
+    {
+      "id": "st-pio",
+      "name": "Padre Pio (Francesco Forgione)",
+      "dates": "1887–1968",
+      "category": "stigmatist",
+      "shortDescriptor": "He bore Christ's wounds and spent 12 hours daily in the confessional",
+      "voiceProfile": {
+        "interior": "compassionate, suffering, direct",
+        "simplicity": "high",
+        "intensity": "very-high",
+        "silenceAffinity": "moderate",
+        "imagery": "wounds, blood, fire, intercession, mercy"
+      },
+      "trajectoryStrength": {
+        "guilt-offering-surrender-union": 10,
+        "bondage-liberation-freedom": 9,
+        "distance-presence-communion": 8,
+        "calling-resistance-fidelity": 10,
+        "gift-rupture-restoration": 8,
+        "control-collapse-service": 9
+      },
+      "stageAffinity": [
+        "sacrifice-redemption",
+        "creation-marred",
+        "presence-intimate"
+      ],
+      "doctrinalAnchor": "Redemptive suffering: the Christian participates in Christ's redemptive work through offered suffering.",
+      "iconType": "intercessor",
+      "movementLanguage": [
+        "compassion",
+        "suffering",
+        "intercession",
+        "mercy",
+        "sacrifice",
+        "transformation through pain"
+      ],
+      "tags": [
+        "suffering",
+        "wounds",
+        "intercession",
+        "mercy",
+        "compassion",
+        "redemptive suffering"
+      ],
+      "keyTexts": [
+        "Letters",
+        "Spiritual Diary",
+        "Testimonies",
+        "Spiritual Conferences"
+      ],
+      "relatedThreats": [
+        "guilt-offering-surrender-union",
+        "calling-resistance-fidelity",
+        "bondage-liberation-freedom"
+      ],
+      "representativeQuote": "Prayer is the best weapon we have; it is the key that opens the heart of God."
+    },
+    {
+      "id": "st-francis-sales",
+      "name": "Francis de Sales",
+      "dates": "1567–1622",
+      "category": "doctor-of-church",
+      "shortDescriptor": "The saint of sweetness who taught that love must be gentle",
+      "voiceProfile": {
+        "interior": "gentle, encouraging, warm",
+        "simplicity": "high",
+        "intensity": "moderate",
+        "silenceAffinity": "moderate",
+        "imagery": "honey, bird, gentle correction, love, kindness"
+      },
+      "trajectoryStrength": {
+        "command-failure-love": 10,
+        "distance-presence-communion": 9,
+        "guilt-offering-surrender-union": 8,
+        "gift-rupture-restoration": 8,
+        "control-collapse-service": 8,
+        "ignorance-illumination": 8
+      },
+      "stageAffinity": [
+        "presence-intimate",
+        "covenant-fulfilled"
+      ],
+      "doctrinalAnchor": "Devoutness: holiness accessible to all states of life through love and gentleness.",
+      "iconType": "teacher",
+      "movementLanguage": [
+        "gentleness",
+        "love",
+        "spiritual friendship",
+        "accessible holiness",
+        "encouragement",
+        "sweetness"
+      ],
+      "tags": [
+        "gentleness",
+        "love",
+        "spiritual direction",
+        "encouragement",
+        "sweetness",
+        "accessibility"
+      ],
+      "keyTexts": [
+        "Introduction to the Devout Life",
+        "Treatise on the Love of God",
+        "Letters",
+        "Spiritual Conferences"
+      ],
+      "relatedThreats": [
+        "command-failure-love",
+        "distance-presence-communion",
+        "guilt-offering-surrender-union"
+      ],
+      "representativeQuote": "Do not wish to be anything but what you are, and try to be that perfectly."
+    },
+    {
+      "id": "st-hildegard",
+      "name": "Hildegard of Bingen",
+      "dates": "1098–1179",
+      "category": "mystic-polymath",
+      "shortDescriptor": "The visionary who saw the cosmos through God's eyes",
+      "voiceProfile": {
+        "interior": "visionary, cosmic, integrative",
+        "simplicity": "low",
+        "intensity": "high",
+        "silenceAffinity": "moderate",
+        "imagery": "light, fire, cosmic order, viriditas (greenness), wheels, eyes"
+      },
+      "trajectoryStrength": {
+        "ignorance-illumination": 10,
+        "distance-presence-communion": 9,
+        "creation-new-creation": 10,
+        "guilt-offering-surrender-union": 8,
+        "control-collapse-service": 8,
+        "bondage-liberation-freedom": 8
+      },
+      "stageAffinity": [
+        "logos-speech",
+        "logos-revelation",
+        "creation-order"
+      ],
+      "doctrinalAnchor": "Creation as living revelation: all things show forth God's glory and interconnectedness.",
+      "iconType": "mystic",
+      "movementLanguage": [
+        "vision",
+        "integration",
+        "cosmic order",
+        "viriditas",
+        "healing",
+        "divine speech"
+      ],
+      "tags": [
+        "vision",
+        "creation",
+        "cosmic order",
+        "healing",
+        "music",
+        "integration"
+      ],
+      "keyTexts": [
+        "Scivias (Know the Ways)",
+        "Book of Divine Works",
+        "Letters",
+        "Medical Writings"
+      ],
+      "relatedThreats": [
+        "ignorance-illumination",
+        "creation-new-creation",
+        "distance-presence-communion"
+      ],
+      "representativeQuote": "Greening power of the Holy Spirit—awaken everything that tends to wither and fail!"
+    },
+    {
+      "id": "st-bernard",
+      "name": "Bernard of Clairvaux",
+      "dates": "1090–1153",
+      "category": "doctor-of-church",
+      "shortDescriptor": "The mellifluous doctor who sang of the bridegroom love of Christ",
+      "voiceProfile": {
+        "interior": "ardent, poetic, desiring",
+        "simplicity": "moderate",
+        "intensity": "high",
+        "silenceAffinity": "moderate",
+        "imagery": "bride-bridegroom, kisses, beloved, desire, sweetness"
+      },
+      "trajectoryStrength": {
+        "distance-presence-communion": 10,
+        "guilt-offering-surrender-union": 9,
+        "command-failure-love": 9,
+        "bondage-liberation-freedom": 8,
+        "ignorance-illumination": 8,
+        "gift-rupture-restoration": 8
+      },
+      "stageAffinity": [
+        "logos-incarnate",
+        "presence-intimate",
+        "covenant-fulfilled"
+      ],
+      "doctrinalAnchor": "Affective theology: God is encountered through desire and love, not mere intellect.",
+      "iconType": "contemplative",
+      "movementLanguage": [
+        "desire",
+        "union",
+        "intimate knowledge",
+        "bridal love",
+        "transformation",
+        "sweetness"
+      ],
+      "tags": [
+        "desire",
+        "love",
+        "bride-bridegroom",
+        "contemplation",
+        "sweetness",
+        "monastic life"
+      ],
+      "keyTexts": [
+        "Sermons on the Song of Songs",
+        "Letters",
+        "On Loving God",
+        "Meditations"
+      ],
+      "relatedThreats": [
+        "distance-presence-communion",
+        "guilt-offering-surrender-union",
+        "command-failure-love"
+      ],
+      "representativeQuote": "Love is sufficient of itself; it pleases by itself and for its own sake."
+    }
+  ]
+}

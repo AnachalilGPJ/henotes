@@ -1,0 +1,208 @@
+{
+  "threads": [
+    {
+      "id": "creation-new-creation",
+      "name": "Creation → New Creation",
+      "description": "From cosmos born to cosmos redeemed. The arc of creation's meaning unfolds from Genesis to Revelation.",
+      "oldTestamentExpression": "In the beginning God created the heavens and the earth. He saw that it was good.",
+      "newTestamentExpression": "Behold, I make all things new.",
+      "stages": [
+        {
+          "type": "creation-order",
+          "title": "Creation Established",
+          "description": "God speaks creation into being. Order emerges from void. Matter and spirit dance in harmony.",
+          "orderInThread": 1,
+          "keyverses": ["Genesis 1:1-31", "Psalm 8", "Proverbs 8:22-31"]
+        },
+        {
+          "type": "creation-marred",
+          "title": "Creation Marred",
+          "description": "Sin enters. Harmony fractures. Creation groans under the weight of separation from God.",
+          "orderInThread": 2,
+          "keyverses": ["Genesis 3", "Romans 8:20-22", "Ecclesiastes 1:2-11"]
+        },
+        {
+          "type": "creation-restored",
+          "title": "Creation Restored in Christ",
+          "description": "Through Christ, all things are reconciled. The new creation begins now and reaches fulfillment.",
+          "orderInThread": 3,
+          "keyverses": ["Colossians 1:15-20", "Revelation 21:1-5", "2 Corinthians 5:17"]
+        }
+      ],
+      "fulfillment": "Christ as the image of the invisible God; in Him all things hold together. The cosmos finds its meaning in His redemption.",
+      "christCenteredness": 9,
+      "keywordsTags": ["creation", "redemption", "cosmos", "incarnation", "new heavens"],
+      "entityTags": ["God", "Christ", "Spirit", "Adam", "Lamb"]
+    },
+    {
+      "id": "covenant-new-covenant",
+      "name": "Covenant → New Covenant",
+      "description": "From promise to fulfillment. God's steadfast commitment deepens through history and reaches its apex in Christ.",
+      "oldTestamentExpression": "I will be your God, and you will be my people.",
+      "newTestamentExpression": "This is my blood of the covenant, poured out for many for the forgiveness of sins.",
+      "stages": [
+        {
+          "type": "covenant-promise",
+          "title": "Covenant Promised",
+          "description": "God makes one-sided promises: to Abraham, Moses, David. Grace precedes response.",
+          "orderInThread": 1,
+          "keyverses": ["Genesis 12:1-3", "Exodus 19:5-6", "2 Samuel 7:12-16"]
+        },
+        {
+          "type": "covenant-law",
+          "title": "Covenant Inscribed in Law",
+          "description": "The covenant takes form in commandments. Law reveals both God's will and human inability.",
+          "orderInThread": 2,
+          "keyverses": ["Exodus 20", "Deuteronomy 6:4-6", "Psalm 119"]
+        },
+        {
+          "type": "covenant-fulfilled",
+          "title": "Covenant Fulfilled in Christ",
+          "description": "Christ is the yes to all God's promises. His blood seals a new and eternal covenant.",
+          "orderInThread": 3,
+          "keyverses": ["Matthew 26:28", "Hebrews 8:6-13", "Luke 22:20"]
+        }
+      ],
+      "fulfillment": "Christ fulfills all covenants. In Him, God's promises are secured and transformed into grace alone.",
+      "christCenteredness": 10,
+      "keywordsTags": ["covenant", "promise", "law", "grace", "blood", "fulfillment"],
+      "entityTags": ["Abraham", "Moses", "David", "Christ", "God"]
+    },
+    {
+      "id": "sacrifice-redemption",
+      "name": "Sacrifice → Redemption",
+      "description": "From offering to liberation. Sacrifice moves from appeasement to the redemptive act that frees all creation.",
+      "oldTestamentExpression": "The lamb of God, who takes away the sins of the world.",
+      "newTestamentExpression": "Christ our Passover has been sacrificed for us.",
+      "stages": [
+        {
+          "type": "sacrifice-type",
+          "title": "Sacrifice as Type",
+          "description": "Animals offered for sin, for peace, for thanksgiving. Each gesture points toward something fuller.",
+          "orderInThread": 1,
+          "keyverses": ["Leviticus 1-7", "Hebrews 10:1-4", "Psalm 51:16-17"]
+        },
+        {
+          "type": "sacrifice-substitution",
+          "title": "Sacrifice as Substitution",
+          "description": "The Passover lamb dies so that Israel lives. One dies for the many.",
+          "orderInThread": 2,
+          "keyverses": ["Exodus 12", "Isaiah 53", "John 1:29"]
+        },
+        {
+          "type": "sacrifice-fulfilled",
+          "title": "Sacrifice Fulfilled and Ended",
+          "description": "Christ's sacrifice is once for all. No more offerings needed. All debts are paid.",
+          "orderInThread": 3,
+          "keyverses": ["Hebrews 9:26-28", "Hebrews 10:10-14", "1 Peter 1:18-21"]
+        }
+      ],
+      "fulfillment": "Christ is the Lamb of God whose blood redeems not just individuals but all of creation.",
+      "christCenteredness": 10,
+      "keywordsTags": ["sacrifice", "redemption", "lamb", "blood", "atonement", "liberation"],
+      "entityTags": ["Lamb", "Christ", "Passover", "High Priest"]
+    },
+    {
+      "id": "kingship-christ-king",
+      "name": "Kingship → Christ the King",
+      "description": "From earthly rule to cosmic sovereignty. Authority moves from temporal thrones to the eternal reign of Christ.",
+      "oldTestamentExpression": "The Lord is King forever and ever.",
+      "newTestamentExpression": "Jesus Christ is Lord, to the glory of God the Father.",
+      "stages": [
+        {
+          "type": "kingship-earthly",
+          "title": "Kingship Earthly and Limited",
+          "description": "Saul, David, Solomon rule. They are anointed representatives of God's kingdom, yet fallible.",
+          "orderInThread": 1,
+          "keyverses": ["1 Samuel 8-10", "2 Samuel 7", "1 Kings 1-11"]
+        },
+        {
+          "type": "kingship-hoped",
+          "title": "Kingship Hoped For",
+          "description": "After exile, the people long for a messiah-king who will reign forever and establish true justice.",
+          "orderInThread": 2,
+          "keyverses": ["Isaiah 9:6-7", "Psalm 2", "Jeremiah 23:5-6"]
+        },
+        {
+          "type": "kingship-revealed",
+          "title": "Kingship Revealed in Christ",
+          "description": "Jesus is the King—not through earthly power but through love, sacrifice, and resurrection. His kingdom is not of this world.",
+          "orderInThread": 3,
+          "keyverses": ["Matthew 28:18", "Colossians 1:13", "Revelation 19:16"]
+        }
+      ],
+      "fulfillment": "Christ reigns eternally. All authority in heaven and earth is His. The kingdom of God is now and not yet.",
+      "christCenteredness": 9,
+      "keywordsTags": ["kingship", "kingdom", "authority", "reign", "anointing"],
+      "entityTags": ["David", "Messiah", "Christ the King", "God"]
+    },
+    {
+      "id": "logos-word-made-flesh",
+      "name": "Logos → Word Made Flesh",
+      "description": "From divine speech to incarnation. God's self-expression moves from word to flesh, from revelation to presence.",
+      "oldTestamentExpression": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+      "newTestamentExpression": "And the Word became flesh and dwelt among us.",
+      "stages": [
+        {
+          "type": "logos-speech",
+          "title": "Logos as Divine Speech",
+          "description": "God speaks creation into being. His word is power, truth, and covenant. Wisdom speaks in Proverbs.",
+          "orderInThread": 1,
+          "keyverses": ["Genesis 1:3-31", "Psalm 33:6", "Proverbs 8:22-31"]
+        },
+        {
+          "type": "logos-revelation",
+          "title": "Logos as Revelation",
+          "description": "God's word comes to the prophets. It is living and active. It judges and heals.",
+          "orderInThread": 2,
+          "keyverses": ["Jeremiah 1:9-10", "Hebrews 4:12", "Isaiah 55:10-11"]
+        },
+        {
+          "type": "logos-incarnate",
+          "title": "Logos Incarnate",
+          "description": "The eternal Word becomes human flesh. God is not merely heard; God is seen, touched, and known in Jesus.",
+          "orderInThread": 3,
+          "keyverses": ["John 1:1-14", "Hebrews 1:1-3", "Colossians 1:15"]
+        }
+      ],
+      "fulfillment": "Jesus Christ is the full revelation of God. In Him, the invisible God becomes visible. The Word takes flesh to dwell with us.",
+      "christCenteredness": 10,
+      "keywordsTags": ["logos", "word", "revelation", "incarnation", "wisdom"],
+      "entityTags": ["Logos", "Christ", "God", "Wisdom", "Word"]
+    },
+    {
+      "id": "presence-god-with-us",
+      "name": "Presence → God With Us",
+      "description": "From distant holiness to indwelling communion. The presence of God moves from temple to people to the hearts of believers.",
+      "oldTestamentExpression": "They heard the sound of the Lord God walking in the garden in the cool of the day.",
+      "newTestamentExpression": "God with us, Emmanuel. I am with you always, to the end of the age.",
+      "stages": [
+        {
+          "type": "presence-distant",
+          "title": "Presence: Distant and Holy",
+          "description": "God dwells in unapproachable light. Moses cannot see His face. The temple separates holy from profane.",
+          "orderInThread": 1,
+          "keyverses": ["Exodus 33:18-23", "1 Kings 8:10-13", "Leviticus 16"]
+        },
+        {
+          "type": "presence-promised",
+          "title": "Presence Promised in Flesh",
+          "description": "The prophets speak of God's intention to dwell with His people. Emmanuel. God pitches a tent among us.",
+          "orderInThread": 2,
+          "keyverses": ["Isaiah 7:14", "Isaiah 40:10-11", "Zechariah 2:10-11"]
+        },
+        {
+          "type": "presence-intimate",
+          "title": "Presence: Intimate and Indwelling",
+          "description": "Christ is Emmanuel—God with us. Through the Spirit, God indwells believers. The body of Christ becomes God's temple.",
+          "orderInThread": 3,
+          "keyverses": ["Matthew 1:23", "John 14:23", "1 Corinthians 3:16-17"]
+        }
+      ],
+      "fulfillment": "God no longer dwells at a distance. In Christ, the infinite becomes intimate. The Holy Spirit makes God's presence personal and immediate.",
+      "christCenteredness": 9,
+      "keywordsTags": ["presence", "communion", "indwelling", "temple", "spirit", "intimacy"],
+      "entityTags": ["God", "Emmanuel", "Holy Spirit", "Christ", "Church"]
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "trajectories": [
+    {
+      "id": "gift-rupture-restoration",
+      "name": "Gift → Rupture → Restoration",
+      "description": "Something precious is given, then broken, then recovered in a deeper way. The pattern of grace interrupted and returned.",
+      "movements": [
+        {
+          "id": "gift-reception",
+          "name": "Gift Reception",
+          "description": "The soul receives something it did not earn and could not achieve alone.",
+          "internalMovement": "Gratitude awakens. The heart recognizes dependence. Wonder opens the soul.",
+          "externalSign": "Receiving, resting, accepting.",
+          "scriptureExamples": ["Genesis 1:31", "Psalm 23", "Matthew 6:11"],
+          "saintExamples": ["st-francis", "st-therese"]
+        },
+        {
+          "id": "rupture-loss",
+          "name": "Rupture: Loss",
+          "description": "The gift is withdrawn or broken. Loss reveals how deeply the soul had relied upon it.",
+          "internalMovement": "Denial, grief, confusion. The soul learns it cannot hold what is not ultimately its own.",
+          "externalSign": "Letting go, emptying, surrendering.",
+          "scriptureExamples": ["Job 1:21", "Psalm 30:5-7", "Lamentations 3:22-24"],
+          "saintExamples": ["st-teresa-avila", "st-john-cross"]
+        },
+        {
+          "id": "restoration-deeper",
+          "name": "Restoration: Deeper",
+          "description": "The gift returns, but transformed. The soul receives it again with deeper humility and truer understanding.",
+          "internalMovement": "Renewed gratitude, purified desire, transformed relationship to the gift.",
+          "externalSign": "New receptivity, mature gratitude, freedom.",
+          "scriptureExamples": ["Psalm 30:11-12", "John 16:33", "Romans 5:3-5"],
+          "saintExamples": ["st-francis", "st-pio"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "attachment-detachment",
+          "name": "Attachment vs Detachment",
+          "description": "The tension between holding the gift close and letting it go freely.",
+          "poles": ["Clinging", "Releasing"]
+        },
+        {
+          "id": "possession-trust",
+          "name": "Possession vs Trust",
+          "description": "Do I own the gift or does it own me? Is my security in what I hold or in God's faithfulness?",
+          "poles": ["Possession", "Trust"]
+        }
+      ],
+      "fulfillment": "Christ is the gift given and received. His death is our rupture; His resurrection is our restoration, transformed and eternal.",
+      "christCenteredness": 9,
+      "stageAffinity": ["creation-order", "creation-marred", "creation-restored"],
+      "saintAffinities": ["st-francis", "st-therese", "st-teresa-avila"],
+      "scripturePatterns": ["Giving and receiving", "Loss and recovery", "Detachment and re-attachment"],
+      "liturgicalConnection": "Eucharist: bread broken and given, received and transformed."
+    },
+    {
+      "id": "guilt-offering-surrender-union",
+      "name": "Guilt → Offering → Surrender → Union",
+      "description": "From the weight of sin to the freedom of self-gift. The soul moves from shame to offering itself to God and, finally, to union.",
+      "movements": [
+        {
+          "id": "guilt-recognition",
+          "name": "Guilt: Recognition",
+          "description": "The soul recognizes its sin. Not mere regret, but true recognition of separation from God.",
+          "internalMovement": "Shame, contrition, dawning awareness of need for God.",
+          "externalSign": "Confession, tears, humility.",
+          "scriptureExamples": ["Psalm 51", "Luke 15:21", "1 John 1:9"],
+          "saintExamples": ["st-therese", "st-pio"]
+        },
+        {
+          "id": "offering-reparation",
+          "name": "Offering: Reparation",
+          "description": "The soul seeks to make amends. It offers itself in small acts, prayers, sacrifices.",
+          "internalMovement": "Desire to restore, to give back, to repair what was broken.",
+          "externalSign": "Fasting, prayer, service, penance.",
+          "scriptureExamples": ["2 Corinthians 7:11", "Matthew 3:8", "Romans 12:1"],
+          "saintExamples": ["st-pio", "st-teresa-avila"]
+        },
+        {
+          "id": "surrender-self-gift",
+          "name": "Surrender: Self-Gift",
+          "description": "The soul moves beyond individual acts to offering itself wholly. No longer seeking to earn, but to give.",
+          "internalMovement": "Willingness to be given, to be used, to belong entirely to God.",
+          "externalSign": "Vows, committed love, abandonment to God's will.",
+          "scriptureExamples": ["Romans 12:1-2", "Matthew 16:24-25", "Galatians 2:20"],
+          "saintExamples": ["st-francis", "st-teresa-avila"]
+        },
+        {
+          "id": "union-transformed",
+          "name": "Union: Transformed",
+          "description": "The soul, having given itself, finds that it is held in God's love. Union replaces separation. Self-gift becomes divine embrace.",
+          "internalMovement": "Deep peace, intimate knowledge of being loved, transformation into God's image.",
+          "externalSign": "Radiance, freedom, apostolic fruitfulness.",
+          "scriptureExamples": ["John 17:20-23", "1 John 3:1-2", "2 Corinthians 3:18"],
+          "saintExamples": ["st-francis", "st-john-cross"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "shame-grace",
+          "name": "Shame vs Grace",
+          "description": "Can I be loved despite my sin? Or does guilt separate me forever?",
+          "poles": ["Shame", "Grace"]
+        },
+        {
+          "id": "earning-receiving",
+          "name": "Earning vs Receiving",
+          "description": "Do I have to earn God's love back, or is it already given?",
+          "poles": ["Earning", "Receiving"]
+        },
+        {
+          "id": "self-loss-self-finding",
+          "name": "Self-Loss vs Self-Finding",
+          "description": "To surrender myself—is this annihilation or true freedom?",
+          "poles": ["Self-Loss", "Self-Finding"]
+        }
+      ],
+      "fulfillment": "Christ is the guilt-bearer. His sacrifice is our offering. His love is our surrender. Union with Him is our final fulfillment.",
+      "christCenteredness": 10,
+      "stageAffinity": ["covenant-law", "sacrifice-type", "presence-distant"],
+      "saintAffinities": ["st-therese", "st-pio", "st-teresa-avila"],
+      "scripturePatterns": ["Confession and forgiveness", "Sacrifice and offering", "Self-surrender and union"],
+      "liturgicalConnection": "Reconciliation: from guilt to absolution to renewed communion."
+    },
+    {
+      "id": "command-failure-love",
+      "name": "Command → Failure → Love",
+      "description": "From obedience to law to the discovery that love fulfills what law demands. The soul learns the freedom beyond mere rule-keeping.",
+      "movements": [
+        {
+          "id": "command-hearing",
+          "name": "Command: Hearing",
+          "description": "The soul receives God's command. It is clear, demanding, non-negotiable.",
+          "internalMovement": "Clarity, resolve, determination to obey. The soul is alive to duty.",
+          "externalSign": "Commitment, vigilance, effort.",
+          "scriptureExamples": ["Exodus 20", "Deuteronomy 6:4-6", "Matthew 22:37-40"],
+          "saintExamples": ["st-teresa-avila", "st-francis"]
+        },
+        {
+          "id": "failure-discovery",
+          "name": "Failure: Discovery",
+          "description": "The soul strives to keep the command and discovers it cannot. Law reveals human weakness.",
+          "internalMovement": "Frustration, humility, growing awareness of need for grace beyond human effort.",
+          "externalSign": "Struggle, tears, surrender of self-reliance.",
+          "scriptureExamples": ["Romans 7:14-25", "Galatians 3:10-14", "Psalm 73:22-26"],
+          "saintExamples": ["st-pio", "st-john-cross"]
+        },
+        {
+          "id": "love-awakening",
+          "name": "Love: Awakening",
+          "description": "In failure, the soul discovers that love is what God actually seeks. Love is the fulfillment of the law.",
+          "internalMovement": "Shift from fear and striving to trust and desire. The heart awakens to God's love.",
+          "externalSign": "Joy, freedom, spontaneous goodness flowing from love rather than duty.",
+          "scriptureExamples": ["Romans 13:8-10", "1 John 4:18-19", "1 Corinthians 13"],
+          "saintExamples": ["st-therese", "st-francis"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "law-grace",
+          "name": "Law vs Grace",
+          "description": "Does God demand or invite? Is He judge or lover?",
+          "poles": ["Law", "Grace"]
+        },
+        {
+          "id": "striving-resting",
+          "name": "Striving vs Resting",
+          "description": "Must I constantly earn God's favor, or can I rest in His love?",
+          "poles": ["Striving", "Resting"]
+        }
+      ],
+      "fulfillment": "Christ fulfills the law through love. His command is His love. In Him, duty becomes desire.",
+      "christCenteredness": 9,
+      "stageAffinity": ["covenant-law", "covenant-fulfilled"],
+      "saintAffinities": ["st-therese", "st-francis"],
+      "scripturePatterns": ["Law and freedom", "Obedience and love", "Duty transformed by grace"],
+      "liturgicalConnection": "The New Commandment: love one another as I have loved you."
+    },
+    {
+      "id": "control-collapse-service",
+      "name": "Control → Collapse → Service",
+      "description": "From the illusion of mastery to the surrender of control to the joy of service. The soul learns that power is given, not seized.",
+      "movements": [
+        {
+          "id": "control-illusion",
+          "name": "Control: Illusion",
+          "description": "The soul believes itself master of its fate. It builds, plans, controls outcomes.",
+          "internalMovement": "Confidence, self-reliance, perhaps pride. The soul feels strong.",
+          "externalSign": "Ambition, achievement, building, planning.",
+          "scriptureExamples": ["Proverbs 3:5-6", "James 4:13-16", "Ecclesiastes 2"],
+          "saintExamples": ["st-francis-early-life"]
+        },
+        {
+          "id": "collapse-loss",
+          "name": "Collapse: Loss",
+          "description": "Plans fail. Illness strikes. Death nears. The soul discovers it controls nothing ultimately.",
+          "internalMovement": "Fear, despair, then gradually, acceptance. The illusion shatters.",
+          "externalSign": "Powerlessness, illness, loss, forced surrender.",
+          "scriptureExamples": ["Luke 12:19-20", "Job", "Psalm 90:10-12"],
+          "saintExamples": ["st-francis", "st-pio"]
+        },
+        {
+          "id": "service-liberation",
+          "name": "Service: Liberation",
+          "description": "Freed from the burden of control, the soul discovers the joy of serving. Power is received and used for others.",
+          "internalMovement": "Freedom, lightness, purpose. The soul finds deep joy in obedience and service.",
+          "externalSign": "Care for others, humility, gladness, fruitfulness.",
+          "scriptureExamples": ["Matthew 20:26-28", "John 13:1-17", "Philippians 2:5-8"],
+          "saintExamples": ["st-francis", "st-teresa-avila"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "power-powerlessness",
+          "name": "Power vs Powerlessness",
+          "description": "Who is truly powerful: the one who commands or the one who serves?",
+          "poles": ["Power", "Powerlessness"]
+        },
+        {
+          "id": "self-will-gods-will",
+          "name": "Self-Will vs God's Will",
+          "description": "Can my will and God's will be one? Or are they always in tension?",
+          "poles": ["Self-Will", "God's Will"]
+        }
+      ],
+      "fulfillment": "Christ emptied Himself to serve. His power is revealed in His surrender. In Him, true greatness is found in humility and service.",
+      "christCenteredness": 9,
+      "stageAffinity": ["kingship-earthly", "kingship-revealed"],
+      "saintAffinities": ["st-francis", "st-teresa-avila"],
+      "scripturePatterns": ["Humility and exaltation", "Self-emptying and fulfillment", "Service as true power"],
+      "liturgicalConnection": "The washing of feet: Christ models power through service."
+    },
+    {
+      "id": "bondage-liberation-freedom",
+      "name": "Bondage → Liberation → Freedom",
+      "description": "From slavery to sin to the experience of being freed to the joy of true freedom in Christ. A movement of increasing liberation.",
+      "movements": [
+        {
+          "id": "bondage-awareness",
+          "name": "Bondage: Awareness",
+          "description": "The soul recognizes it is enslaved. Not free to choose the good. Bound to patterns, desires, fears.",
+          "internalMovement": "Growing despair that change is possible. The soul feels trapped.",
+          "externalSign": "Repetition of sin, inability to stop, desperation.",
+          "scriptureExamples": ["Romans 7:14-20", "Exodus 1:13-14", "John 8:34"],
+          "saintExamples": ["st-pio", "st-therese-struggles"]
+        },
+        {
+          "id": "liberation-rescue",
+          "name": "Liberation: Rescue",
+          "description": "God acts. The chains are broken. The soul is freed from the power of sin.",
+          "internalMovement": "Joy, amazement, gratitude. The soul discovers it can choose anew.",
+          "externalSign": "Conversion, radical life change, new capacity for good.",
+          "scriptureExamples": ["Exodus 12-14", "Romans 6:5-11", "2 Corinthians 5:17"],
+          "saintExamples": ["st-francis", "st-teresa-avila"]
+        },
+        {
+          "id": "freedom-maturity",
+          "name": "Freedom: Maturity",
+          "description": "Not mere freedom from bondage, but freedom for—to love, to create, to be fully alive in God.",
+          "internalMovement": "Deep peace, authentic desire for good, spontaneous love.",
+          "externalSign": "Holiness, joy, apostolic effectiveness, love of others.",
+          "scriptureExamples": ["Galatians 5:1", "1 Peter 2:16", "John 8:36"],
+          "saintExamples": ["st-francis", "st-therese"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "slavery-freedom",
+          "name": "Slavery vs Freedom",
+          "description": "Is the soul truly enslaved, or does it willingly choose captivity?",
+          "poles": ["Slavery", "Freedom"]
+        },
+        {
+          "id": "despair-hope",
+          "name": "Despair vs Hope",
+          "description": "Can I be freed? Does liberation exist, or is it an illusion?",
+          "poles": ["Despair", "Hope"]
+        }
+      ],
+      "fulfillment": "Christ is our liberation. His death breaks the chains of sin and death. In His resurrection, we are freed to live as God's children.",
+      "christCenteredness": 10,
+      "stageAffinity": ["creation-marred", "sacrifice-substitution", "presence-intimate"],
+      "saintAffinities": ["st-francis", "st-pio"],
+      "scripturePatterns": ["Exodus pattern", "Spiritual slavery and freedom", "Redemption and new life"],
+      "liturgicalConnection": "Baptism: dying and rising with Christ, freed from sin, born to new life."
+    },
+    {
+      "id": "ignorance-illumination",
+      "name": "Ignorance → Illumination",
+      "description": "From darkness of not knowing God to the light of divine knowledge. The soul moves from blindness to vision.",
+      "movements": [
+        {
+          "id": "ignorance-darkness",
+          "name": "Ignorance: Darkness",
+          "description": "The soul does not know God. It may mistake other things for God. It stumbles in darkness.",
+          "internalMovement": "Confusion, seeking without finding, false answers, spiritual emptiness.",
+          "externalSign": "Wandering, idolatry, empty pursuits.",
+          "scriptureExamples": ["1 Corinthians 2:14", "Ephesians 4:17-18", "John 1:4-5"],
+          "saintExamples": ["st-francis-before-conversion"]
+        },
+        {
+          "id": "illumination-awakening",
+          "name": "Illumination: Awakening",
+          "description": "God reveals Himself. The soul begins to see truth. Light breaks into darkness.",
+          "internalMovement": "Wonder, awe, recognition. The soul sees what it had always missed.",
+          "externalSign": "Conversion, prayer, new understanding, contemplation.",
+          "scriptureExamples": ["Ephesians 1:17-19", "2 Corinthians 4:4-6", "Matthew 16:17"],
+          "saintExamples": ["st-teresa-avila", "st-john-cross"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "darkness-light",
+          "name": "Darkness vs Light",
+          "description": "Am I truly blind, or do I just resist the light?",
+          "poles": ["Darkness", "Light"]
+        }
+      ],
+      "fulfillment": "Christ is the Light of the World. In Him, we see the Father. Illumination is the gift of His Spirit.",
+      "christCenteredness": 9,
+      "stageAffinity": ["logos-speech", "logos-revelation", "logos-incarnate"],
+      "saintAffinities": ["st-teresa-avila", "st-john-cross"],
+      "scripturePatterns": ["Darkness and light", "Blindness and sight", "Knowledge of God"],
+      "liturgicalConnection": "Baptism: from darkness to light; from ignorance to incorporation in Christ."
+    },
+    {
+      "id": "distance-presence-communion",
+      "name": "Distance → Presence → Communion",
+      "description": "From the ache of distance from God to the experience of His presence to intimate union. A progressive drawing near.",
+      "movements": [
+        {
+          "id": "distance-yearning",
+          "name": "Distance: Yearning",
+          "description": "The soul feels separated from God. It yearns for what it does not yet possess. Longing becomes its prayer.",
+          "internalMovement": "Ache, desire, seeking. The soul knows something is missing.",
+          "externalSign": "Prayer, fasting, pilgrimage, hunger.",
+          "scriptureExamples": ["Psalm 42:1-2", "Song of Songs", "Philippians 3:10"],
+          "saintExamples": ["st-therese", "st-john-cross"]
+        },
+        {
+          "id": "presence-encounter",
+          "name": "Presence: Encounter",
+          "description": "God draws near. The distance collapses. The soul experiences God's presence with immediacy.",
+          "internalMovement": "Joy, peace, certainty. The soul knows it is not alone.",
+          "externalSign": "Contemplative prayer, peace, transformative experience.",
+          "scriptureExamples": ["Exodus 33:14-15", "John 14:23", "1 John 1:3"],
+          "saintExamples": ["st-teresa-avila", "st-francis"]
+        },
+        {
+          "id": "communion-union",
+          "name": "Communion: Union",
+          "description": "Presence becomes communion. The soul and God are no longer merely near each other; they are united. Mutual indwelling.",
+          "internalMovement": "Deep peace, identity transformed, continuous awareness of union.",
+          "externalSign": "Love, fruitfulness, radiance, apostolic power.",
+          "scriptureExamples": ["John 17:20-23", "Galatians 2:20", "1 John 4:15-16"],
+          "saintExamples": ["st-francis", "st-john-cross"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "distance-closeness",
+          "name": "Distance vs Closeness",
+          "description": "Is the distance real or illusion? Is God truly absent or only hidden?",
+          "poles": ["Distance", "Closeness"]
+        },
+        {
+          "id": "seeking-finding",
+          "name": "Seeking vs Finding",
+          "description": "Does the search ever end? Does presence satisfy longing or deepen it?",
+          "poles": ["Seeking", "Finding"]
+        }
+      ],
+      "fulfillment": "In Christ, distance is abolished. He is Emmanuel—God with us. The Spirit indwells believers. Ultimate communion awaits the vision of God.",
+      "christCenteredness": 10,
+      "stageAffinity": ["presence-distant", "presence-promised", "presence-intimate"],
+      "saintAffinities": ["st-teresa-avila", "st-john-cross", "st-therese"],
+      "scripturePatterns": ["Separation and reunion", "Longing and fulfillment", "Union with God"],
+      "liturgicalConnection": "The Eucharist: Christ's real presence; communion with God and the Church."
+    },
+    {
+      "id": "calling-resistance-fidelity",
+      "name": "Calling → Resistance → Fidelity",
+      "description": "From hearing God's call to the struggle to answer to the perseverance of faithful love. The soul learns to say 'yes' and keep saying it.",
+      "movements": [
+        {
+          "id": "calling-summons",
+          "name": "Calling: Summons",
+          "description": "God calls. The soul hears itself named, invited, chosen for something beyond itself.",
+          "internalMovement": "Awe, awareness of being known and chosen. The soul feels summoned to something true.",
+          "externalSign": "Prayer, contemplation, initial willingness, hope.",
+          "scriptureExamples": ["Isaiah 6:8", "1 Samuel 3", "Matthew 4:18-20"],
+          "saintExamples": ["st-francis", "st-teresa-avila"]
+        },
+        {
+          "id": "resistance-struggle",
+          "name": "Resistance: Struggle",
+          "description": "The cost becomes apparent. Resistance rises: fear, doubt, the weight of sacrifice. The soul must choose again.",
+          "internalMovement": "Fear, doubt, inner conflict. The soul tastes the cost of yes.",
+          "externalSign": "Struggle, near-abandonment, tears, nights of darkness.",
+          "scriptureExamples": ["Jeremiah 20:7-9", "Mark 14:32-42", "Hebrews 12:1-2"],
+          "saintExamples": ["st-john-cross", "st-therese"]
+        },
+        {
+          "id": "fidelity-perseverance",
+          "name": "Fidelity: Perseverance",
+          "description": "The soul chooses yes, again and again. Love becomes perseverance. Calling becomes lived covenant.",
+          "internalMovement": "Deep commitment, quiet strength, joy mixed with sorrow, transparent obedience.",
+          "externalSign": "Perseverance, fruit, sacrifice borne with grace, love that endures.",
+          "scriptureExamples": ["Hebrews 12:1-3", "1 Corinthians 15:58", "Revelation 2:10"],
+          "saintExamples": ["st-francis", "st-pio"]
+        }
+      ],
+      "tensions": [
+        {
+          "id": "acceptance-resistance",
+          "name": "Acceptance vs Resistance",
+          "description": "Am I clinging to my own will, or have I truly accepted God's will?",
+          "poles": ["Acceptance", "Resistance"]
+        },
+        {
+          "id": "cost-reward",
+          "name": "Cost vs Reward",
+          "description": "What am I willing to lose? What do I receive in return?",
+          "poles": ["Cost", "Reward"]
+        }
+      ],
+      "fulfillment": "Christ is the perfect model of faithful answering to His Father. His 'yes' in Gethsemane becomes His redemptive yes on the cross.",
+      "christCenteredness": 10,
+      "stageAffinity": ["kingship-earthly", "kingship-revealed", "presence-intimate"],
+      "saintAffinities": ["st-francis", "st-teresa-avila", "st-pio"],
+      "scripturePatterns": ["Calling and response", "Perseverance in faith", "Fidelity through suffering"],
+      "liturgicalConnection": "Religious profession: total commitment to God's calling in Christ."
+    }
+  ]
+}

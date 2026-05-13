@@ -1,0 +1,186 @@
+{
+  "commentary": [
+    {
+      "id": "gift-rupture-restoration-commentary",
+      "trajectoryId": "gift-rupture-restoration",
+      "sources": [
+        "lapide",
+        "fathers",
+        "catechism"
+      ],
+      "themes": [
+        {
+          "theme": "Dependence on God's Grace",
+          "scriptureBase": "Romans 11:36, John 15:5",
+          "doctrine": "All good comes from God. Created things cannot sustain themselves. This humbles pride and awakens gratitude.",
+          "theologian": "Augustine, Aquinas"
+        },
+        {
+          "theme": "Providence and Suffering",
+          "scriptureBase": "Romans 8:28, Hebrews 12:5-11",
+          "doctrine": "God permits suffering to purify desire and deepen faith. Loss is not punishment but pedagogy.",
+          "theologian": "Chrysostom, Aquinas"
+        },
+        {
+          "theme": "Resurrection and Renewal",
+          "scriptureBase": "2 Corinthians 5:17, Revelation 21:5",
+          "doctrine": "In Christ, all things are made new. Loss is not final; God restores in a transformed way.",
+          "theologian": "Paul, John of Patmos"
+        }
+      ],
+      "warnings": [
+        {
+          "id": "false-resignation",
+          "warning": "Do not mistake passive numbness for spiritual surrender. True acceptance is active and willing."
+        },
+        {
+          "id": "magical-thinking",
+          "warning": "Do not expect God to restore material gifts in the same form. Restoration is spiritual and often hidden."
+        }
+      ],
+      "validation": {
+        "isAuthentic": true,
+        "scriptureConfirms": "This trajectory is rooted in the paschal pattern: death and resurrection. It is validated throughout Scripture and reflected in the lives of saints."
+      }
+    },
+    {
+      "id": "guilt-offering-surrender-union-commentary",
+      "trajectoryId": "guilt-offering-surrender-union",
+      "sources": [
+        "lapide",
+        "fathers",
+        "catechism"
+      ],
+      "themes": [
+        {
+          "theme": "Contrition and Conversion",
+          "scriptureBase": "Psalm 51, John 8:1-11, Luke 15:11-32",
+          "doctrine": "True sorrow for sin leads to metanoia—a turning of the whole person toward God. This is grace, not mere emotion.",
+          "theologian": "Augustine, Aquinas"
+        },
+        {
+          "theme": "Satisfaction and Restitution",
+          "scriptureBase": "Zacchaeus, Matthew 5:23-24",
+          "doctrine": "The soul seeks to make amends—not to earn forgiveness, but to align itself with justice and love. This is the fruit of true conversion.",
+          "theologian": "Aquinas, Lombard"
+        },
+        {
+          "theme": "Self-Oblation",
+          "scriptureBase": "Romans 12:1-2, Philippians 2:17",
+          "doctrine": "The soul's ultimate offering of itself is itself the completion of sacrifice. To give oneself entirely to God is union.",
+          "theologian": "Paul, Mystical Tradition"
+        },
+        {
+          "theme": "Mystical Union",
+          "scriptureBase": "John 17:20-23, Galatians 2:20, 1 John 3:24",
+          "doctrine": "Union with God is not meriting or earning but being embraced. The soul rests in God's love. Christ lives in the believer.",
+          "theologian": "John of the Cross, Teresa of Ávila"
+        }
+      ],
+      "warnings": [
+        {
+          "id": "scrupulosity",
+          "warning": "Do not get trapped in endless self-examination. True repentance moves toward peace and love, not perpetual guilt."
+        },
+        {
+          "id": "works-righteousness",
+          "warning": "Do not believe your offering earns God's love. Reparation is the response to grace already given, not its condition."
+        },
+        {
+          "id": "false-ecstasy",
+          "warning": "Do not confuse emotional experiences with true union. Union is measured by charity, not feeling."
+        }
+      ],
+      "validation": {
+        "isAuthentic": true,
+        "scriptureConfirms": "This trajectory from guilt to union is the heart of the Gospel: grace overcomes sin, and the sinner is embraced as beloved."
+      }
+    },
+    {
+      "id": "command-failure-love-commentary",
+      "trajectoryId": "command-failure-love",
+      "sources": [
+        "lapide",
+        "fathers",
+        "catechism"
+      ],
+      "themes": [
+        {
+          "theme": "The Purpose of the Law",
+          "scriptureBase": "Galatians 3:24, Romans 3:20",
+          "doctrine": "The law is not intended as the final means of salvation but as a pedagogue leading to Christ. It reveals both God's will and human inadequacy.",
+          "theologian": "Paul, Augustine"
+        },
+        {
+          "theme": "Human Weakness",
+          "scriptureBase": "Romans 7:14-25, Jeremiah 13:23",
+          "doctrine": "Humans cannot keep the law by their own power. This recognition breaks pride and opens the soul to grace.",
+          "theologian": "Augustine, Calvin, Luther"
+        },
+        {
+          "theme": "Love as Fulfillment",
+          "scriptureBase": "Matthew 22:37-40, Romans 13:8-10, 1 John 4:7-8",
+          "doctrine": "Love fulfills the entire law. Not through moral effort alone, but through transformation of the heart by grace. Duty becomes desire.",
+          "theologian": "Paul, Augustine, Aquinas"
+        }
+      ],
+      "warnings": [
+        {
+          "id": "antinomianism",
+          "warning": "Do not use grace as an excuse to ignore moral law. Rather, love deepens obedience by transforming it from fear to desire."
+        },
+        {
+          "id": "moralism",
+          "warning": "Do not reduce Christianity to rule-keeping. Rules serve love; love is the fulfillment."
+        }
+      ],
+      "validation": {
+        "isAuthentic": true,
+        "scriptureConfirms": "This trajectory reflects Paul's core teaching: the law leads to Christ, who is the end of the law. In Him, obedience becomes love."
+      }
+    },
+    {
+      "id": "distance-presence-communion-commentary",
+      "trajectoryId": "distance-presence-communion",
+      "sources": [
+        "lapide",
+        "fathers",
+        "catechism"
+      ],
+      "themes": [
+        {
+          "theme": "The Hiddenness and Revelation of God",
+          "scriptureBase": "Isaiah 45:15, Exodus 33:18-23, John 1:18",
+          "doctrine": "God is transcendent and beyond human sight, yet He reveals Himself through His acts, through conscience, and ultimately through Christ.",
+          "theologian": "Augustine, Aquinas, Barth"
+        },
+        {
+          "theme": "The Experience of God's Presence",
+          "scriptureBase": "Psalm 42:1-5, Song of Songs, Philippians 4:6-7",
+          "doctrine": "Longing for God is itself the first movement of grace. The soul may experience God's presence in prayer, Scripture, nature, and sacrament.",
+          "theologian": "Augustine, Bernard, Teresa"
+        },
+        {
+          "theme": "Union in Christ",
+          "scriptureBase": "John 17:20-23, 1 John 1:3-7, Colossians 1:27",
+          "doctrine": "The incarnation abolishes distance. In Christ, God and humanity are united. Through the Spirit, believers are united to Christ.",
+          "theologian": "Athanasius, Aquinas, Calvin"
+        }
+      ],
+      "warnings": [
+        {
+          "id": "pantheism",
+          "warning": "Union does not mean loss of distinction. God remains God; the soul remains creature. Union is communion, not fusion."
+        },
+        {
+          "id": "spiritual-escapism",
+          "warning": "Do not flee the world in pursuit of mystical experience. Contemplation bears fruit in love for the world and neighbor."
+        }
+      ],
+      "validation": {
+        "isAuthentic": true,
+        "scriptureConfirms": "The movement from distance to presence to union reflects the entire biblical narrative: creation, covenant, incarnation, and the gift of the Spirit."
+      }
+    }
+  ]
+}
