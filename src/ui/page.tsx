@@ -10,7 +10,7 @@ export default function Page({ verses }) {
         <Verse key={v.id} verse={v} />
       ))}
 
-    </div>
+    <div className="page">
   );
 }
 ``
