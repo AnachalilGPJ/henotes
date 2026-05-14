@@ -1,15 +1,11 @@
-import { useState } from "react";
+import { useFireStore } from "../../core/state";
+import FireSequence from "./FireSequence";
 
-export default function FireController({ verse }) {
-  const [active, setActive] = useState(false);
+export default function FireController() {
+  const active = useFireStore((s) => s.active);
+  const verse = useFireStore((s) => s.verse);
 
-  return (
-    <>
-      <div onClick={() => setActive(true)}>
-        {verse.text}
-      </div>
+  if (!active || !verse) return null;
 
-      {active && <FireSequence verse={verse} />}
-    </>
-  );
+  return <FireSequence verse={verse} />;
 }
